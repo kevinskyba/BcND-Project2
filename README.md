@@ -1,6 +1,12 @@
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
+### Info
+**1) Your ERC-721 Token Name**: UdacyStars
+**Your ERC-721 Token Symbol**: UDS
+**3) Version of the Truffle and OpenZeppelin used**:  / 2.3.0
+**4) Your Token Address on the Rinkeby Network**: 0x85573a49528c96264d7b5EaC3ED7A331A60B456a
+
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
